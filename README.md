@@ -13,7 +13,7 @@ It aims to create a helpful platform for all college students.
 It uses Firebase and SQLite to store and display the information to the user.
 The app uses Material UI for an attractive interface (subject to improvement) which attracts the user to stay on the app for more time.
 
-This idea was developed for Ideathon held in BVCOE, New Delhi where it was presented to be a college app for BVCOE, New Delhi 
+This idea was developed for Ideathon held in BVCOE, New Delhi where it was presented to be a college app for BVCOE, New Delhi.
 
 Later it was aimed to be a _third party app for every college and course in India_
 
